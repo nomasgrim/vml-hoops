@@ -1,2 +1,4 @@
 # vml-hoops
-application to demonstrate angular use
+## To Do's
+* add players
+* Team generator
